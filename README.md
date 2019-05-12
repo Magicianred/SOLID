@@ -2,11 +2,11 @@
 
 Nothing better than trying, I cloned some repositories to code and try to add unit tests in these projects.  
 
-### SOLID
+## solıd prensipleri (solid principles)  
 
 by [hilalelmss](https://github.com/hilalelmss/)
 
-**solıd prensipleri** is a code from hilalelmss for explains SOLID pattern, I have used it as base for extends it.
+**solıd prensipleri** is a code from __hilalelmss__ for explains SOLID pattern, I have used it as base for extends it.
 
 - [github repository](https://github.com/hilalelmss/SOLID)
 
